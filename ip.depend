@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1578513540 source:c:\oji\surse codeblocks\ip\main.cpp
+	<graphics.h>
+	<winbgim.h>
+	<iostream>
+	"coada.h"
+	"graficaJoc.h"
+	"stiva.h"
+	"butoaneInGame.h"
+
+1578159500 c:\oji\surse codeblocks\ip\coada.h
+
+1578155926 c:\oji\surse codeblocks\ip\graficajoc.h
+
+1578159988 c:\oji\surse codeblocks\ip\stiva.h
+
+1578507715 c:\oji\surse codeblocks\ip\butoaneingame.h
+
+1579011706 source:e:\codeblocks surse\ip\main.cpp
+	<graphics.h>
+	<cstdio>
+	<cstdlib>
+	<ctime>
+	<winbgim.h>
+	<MMsystem.h>
+	"coada.h"
+	"graficaJoc.h"
+	"stiva.h"
+	"butoaneInGame.h"
+
+1578159502 e:\codeblocks surse\ip\coada.h
+
+1578947900 e:\codeblocks surse\ip\graficajoc.h
+
+1578159990 e:\codeblocks surse\ip\stiva.h
+
+1579101461 e:\codeblocks surse\ip\butoaneingame.h
+
+1579011704 source:c:\users\theo\desktop\ip\main.cpp
+	<graphics.h>
+	<cstdio>
+	<cstdlib>
+	<ctime>
+	<winbgim.h>
+	<MMsystem.h>
+	"coada.h"
+	"graficaJoc.h"
+	"stiva.h"
+	"butoaneInGame.h"
+
+1578159502 c:\users\theo\desktop\ip\coada.h
+
+1578947898 c:\users\theo\desktop\ip\graficajoc.h
+
+1578159990 c:\users\theo\desktop\ip\stiva.h
+
+1578941636 c:\users\theo\desktop\ip\butoaneingame.h
+
